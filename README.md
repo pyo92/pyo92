@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&&text=PARK%20GI-PYO%20💻🐒&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Hello!%20I'm%&descAlignY=20&descAlign=26" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&&text=PARK%20GI-PYO%20💻🐒&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Hello!%20I'm%&descAlignY=20&descAlign=26" />
     <hr>
     <details open>
         <summary>🚀 My skills</summary>
