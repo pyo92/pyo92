@@ -33,10 +33,15 @@
 <details>
     <summary>👤 Contact me</summary>
     <br>
-        <img href="https://velog.io/@pyo92" src="https://img.shields.io/badge/Velog-20c997.svg?&style=for-the-badge&logo=Velog&logoColor=white" />&nbsp;&nbsp;
-        <img mailto="gipyopark@gmail.com" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />&nbsp;&nbsp;
-        <img href="https://www.instagram.com/gipyo.park/" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
-    
+    <a href="https://velog.io/@pyo92">
+       <img src="https://img.shields.io/badge/Velog-20c997.svg?&style=for-the-badge&logo=Velog&logoColor=white" />&nbsp;&nbsp;
+    </a>
+    <a href="mailto:gipyopark@gmail.com">
+        <img  src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />&nbsp;&nbsp;
+    </a>
+    <a href="https://www.instagram.com/gipyo.park/">
+        <img  src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>    
 </details>
 <hr>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpyo92&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
