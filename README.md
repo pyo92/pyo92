@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&&text=PARK%20GI-PYO%20💻🐒&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Hello!%20I'm%&descAlignY=20&descAlign=26" />
-    <hr>
+<!--     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&&text=PARK%20GI-PYO%20💻🐒&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Hello!%20I'm%&descAlignY=20&descAlign=26" /> -->
+<!--     <hr> -->
     <details open>
         <summary>🚀 My skills</summary>
         <br>
@@ -17,8 +17,6 @@
             <img src="https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white" />
         </div>
     </details>
-    <br>
-    <br>
     <details open>
         <summary>📈 Github stats</summary>
         <br>
@@ -28,8 +26,6 @@
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyo92&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
     </details>
-    <br>
-    <br>
     <details>
         <summary>👤 Contact me</summary>
         <br>
